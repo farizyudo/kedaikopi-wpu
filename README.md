@@ -6,7 +6,7 @@ Website ini menampilkan halaman sederhana tentang kedai kopi, dengan fokus pada 
 ## 🔧 Teknologi yang digunakan
 - HTML5
 - CSS3
-- (Tambahkan JS nanti kalau ada)
+- JS
 
 ## 🚀 Cara Menjalankan
 Cukup buka file `index.html` di browser.
